@@ -12,3 +12,4 @@ This is a sample repo, hello world!
 # now we need to push the file
 # "git push origin master"
 # the code above stands for: "git, execute command -> push this code to somewhere -> "origin" is which branch -> "master" is the front page of the repo, eg: default file.
+# NEVER STORE ANY PRIVATE INFORMATION HERE
